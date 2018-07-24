@@ -1,0 +1,44 @@
+.profilepic{
+  width:170px;
+  height:170px;
+  margin-top: 60px;
+margin-left: 60px;
+}
+.background{
+  background-image: url("https://www.cpacanada.ca/-/media/site/operational/ms-member-services/images/g10107-ms.jpg");
+  padding-bottom: 5px;
+
+}
+h1{
+  margin-left: 280px;
+  color: blue;
+}
+.topnav {
+    background-color: lightgrey;
+    overflow: hidden;
+    margin-top: 30px;
+
+  }
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: left;
+    padding: 5px  50px;
+    text-decoration: black;
+    font-size: 18px;
+    height: 70%
+  }
+  .topnav a:hover {
+    background-color:  white;
+      color: red;
+    }
+    .topnav a.active {
+    background-color:white;
+    color: red;
+  }
+  img{
+    width: 800px;
+    float: inherit;
+    height: 600px;
+    margin-left: 460px;
+  }
